@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NY5mTQVdEcI=",
+  "success": true,
+  "projectFilePath": "E:\\Practice\\NewPracticeManual\\TestProject\\DotNetAPI\\product-curd\\backend\\src\\ProductCrud.Api\\ProductCrud.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
